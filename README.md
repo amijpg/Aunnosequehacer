@@ -1,9 +1,9 @@
 # Clase 14 (_avance_)
 
-- **¿Para qué es esta propuesta?**
+ **1. ¿Para qué es esta propuesta?**
 Esta propuesta es para crear un sitio web donde pueda mostrar lo que he aprendido en diseño y desarrollo web. Estoy haciendo una página para un centro dental, donde la gente pueda encontrar información sobre los servicios que ofrece, los profesionales que trabajan ahí, la ubicación del centro y cómo contactarlos.
 
-- **¿Para quiénes es esta propuesta?**
+**2. ¿Para quiénes es esta propuesta?**
 Mi propuesta basicmente está enfocada en ususarios que busquen informacioón acerca de este centro dental.
 Los perfiles de usuario serían los siquientes.
 
@@ -108,6 +108,7 @@ Escenario de Uso
 - Frecuencia de acceso: Es probable que realice la consulta inicial una vez y, de decidirse, vuelva al sitio para concretar la cita.
 ```
 - - - - - - -  - - - - - - - - - - - - - - - - - - 
+**3. ¿Qué existe que es similar a la propuesta?**
 ![Diseño sin título(2)](https://github.com/user-attachments/assets/86407e60-5769-4418-bd41-8d0df9f1c2ba)
 
 **DESCRIPCIÓN**
