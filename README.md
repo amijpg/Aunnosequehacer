@@ -123,6 +123,7 @@ Escenario de Uso
 - Frecuencia de acceso: Es probable que realice la consulta inicial una vez y, de decidirse, vuelva al sitio para concretar la cita.
 ```
 - - - - - - -  - - - - - - - - - - - - - - - - - - 
+
 **3. ¿Qué existe que es similar a la propuesta?**
 ![Diseño sin título(2)](https://github.com/user-attachments/assets/86407e60-5769-4418-bd41-8d0df9f1c2ba)
 
@@ -142,7 +143,9 @@ Sin embargo, la cantidad de texto en la página principal puede resultar abrumad
 creando una sensación de saturación que dificulta encontrar información rápidamente. Visualmente, la página se
 percibe "estática" y poco atractiva, ya que carece de elementos dinámicos o interactivos que capturen la atención y
 hagan la experiencia más envolvente.
+
 --------------------------------------
+
 2. Clínica Dental Beladent
 
 - Aspectos Positivos:
@@ -154,7 +157,9 @@ un nivel de confianza al mostrar las caras de los profesionales que atenderán a
 A pesar de su limpieza visual, el diseño puede percibirse como básico y le falta dinamismo, lo que hace que
 la experiencia se sienta un poco plana y sin mucho impacto visual. La información, aunque útil, está distribuida
 de una forma que puede volverse repetitiva y monótona, afectando la retención del usuario.
+
 --------------------------------------
+
 3. Clínica Dental Smiling
 
 - Aspectos Positivos:
@@ -166,7 +171,9 @@ lo cual facilita una navegación intuitiva y rápida.
 Sin embargo, la página carece de interactividad, lo cual puede hacer que los usuarios pierdan interés rápidamente si
 están buscando una experiencia más dinámica. Además, algunos textos largos en la página principal pueden reducir el
  impacto de la información clave, haciendo que algunos detalles importantes pasen desapercibidos.
+
 --------------------------------------
+
 4. Clínica Dental Mora Pavic
 
 - Aspectos Positivos:
@@ -178,7 +185,9 @@ valor educativo y mantiene a los visitantes informados sobre temas de salud dent
 La página tiene muchas secciones y una gran cantidad de texto, lo cual puede dar la impresión de estar sobrecargada
 y hacer que los usuarios se sientan abrumados. Además, cuenta con pocos elementos visuales interactivos o dinámicos,
 lo cual puede hacerla ver menos atractiva para los usuarios jóvenes que esperan una experiencia más moderna y entretenida.
+
 --------------------------------------
+
 5. Clínica Dental Sonríe
 
 - Aspectos Positivos:
@@ -190,7 +199,9 @@ a los usuarios a obtener una idea rápida de lo que pueden encontrar en la clín
 El diseño se ve un poco anticuado y le falta innovación visual, lo cual puede afectar la percepción de
 modernidad del sitio. Asimismo, carece de elementos visuales atractivos, lo que puede hacer que la experiencia
 del usuario sea menos envolvente y el sitio se sienta menos llamativo.
+
 --------------------------------------
+
 6. Clínica Dental Bucalis
 
 - Aspectos Positivos:
@@ -203,3 +214,6 @@ La página puede sentirse recargada debido al uso excesivo de colores intensos y
 puede resultar abrumador para algunos usuarios. La abundancia de información en una sola página también puede hacer
 que los usuarios que solo buscan información rápida se sientan perdidos o sobrecargados.
 ```
+**4. ¿Qué existe que puede inspirar la propuesta?**
+
+
