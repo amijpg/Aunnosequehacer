@@ -6,8 +6,10 @@ Esta propuesta es para crear un sitio web donde pueda mostrar lo que he aprendid
 - **¿Para quiénes es esta propuesta?**
 Mi propuesta basicmente está enfocada en ususarios que busquen informacioón acerca de este centro dental.
 Los perfiles de usuario serían los siquientes.
+
 ```
-**Usuario Extremo 1** 
+Usuario Extremo 1
+
 - Nombre: Carla, la Exploradora Casual
 - Edad: 22 años
 - Ocupación: Estudiante universitaria
@@ -29,11 +31,12 @@ Si la información en el sitio sobre precios o promociones no es clara o si la p
 
 #### Descripción de su Comportamiento en el Sitio Web:
 Carla visitará el sitio luego de ver una promoción en redes sociales, buscando detalles sobre servicios y posibles descuentos. Su enfoque será rápido y exploratorio, sin profundizar mucho en la información.
+
 #### Escenario de Uso
 
 - Cuándo: Fin de semana, en la tarde o noche.
 - Tarea: Explorar las promociones y servicios accesibles, como una limpieza dental.
--  Ubicación: Desde su casa, conectada a WiFi.
+- Ubicación: Desde su casa, conectada a WiFi.
 - Experiencia esperada: Agilidad y simplicidad en la navegación.
 - Tiempo estimado para la tarea: Menos de 5 minutos.
 - Frecuencia de acceso: Puede hacer una visita inicial rápida y, si le interesa, podría volver para revisar más detalles.
