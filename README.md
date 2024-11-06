@@ -15,19 +15,23 @@ USUARIO EXTREMO 1
 - Ocupación: Estudiante universitaria
 
 Objetivos de Vida:
-- Carla está enfocada en sus estudios y busca maneras de ahorrar en servicios de salud mientras completa su carrera. Está abierta a explorar servicios accesibles, especialmente si se ajustan a su presupuesto estudiantil.
+- Carla está enfocada en sus estudios y busca maneras de ahorrar en servicios de salud mientras completa su carrera.
+Está abierta a explorar servicios accesibles, especialmente si se ajustan a su presupuesto estudiantil.
 
 Personalidad:
 - Espontánea 
 
 Motivaciones:
-- Le interesa probar nuevos servicios, especialmente si encuentra promociones o descuentos que hagan el servicio más accesible. La publicidad en redes sociales despertó su curiosidad.
+- Le interesa probar nuevos servicios, especialmente si encuentra promociones o descuentos que hagan el servicio más accesible.
+La publicidad en redes sociales despertó su curiosidad.
 
 Frustraciones:
-- Si la información en el sitio sobre precios o promociones no es clara o si la página tarda en cargar, es probable que pierda el interés.
+- Si la información en el sitio sobre precios o promociones no es clara o si la página tarda
+en cargar, es probable que pierda el interés.
 
 Descripción de su Comportamiento en el Sitio Web:
-- Carla visitará el sitio luego de ver una promoción en redes sociales, buscando detalles sobre servicios y posibles descuentos. Su enfoque será rápido y exploratorio, sin profundizar mucho en la información.
+- Carla visitará el sitio luego de ver una promoción en redes sociales, buscando detalles sobre servicios y
+posibles descuentos. Su enfoque será rápido y exploratorio, sin profundizar mucho en la información.
 
 Escenario de Uso
 
@@ -36,7 +40,8 @@ Escenario de Uso
 - Ubicación: Desde su casa, conectada a WiFi.
 - Experiencia esperada: Agilidad y simplicidad en la navegación.
 - Tiempo estimado para la tarea: Menos de 5 minutos.
-- Frecuencia de acceso: Puede hacer una visita inicial rápida y, si le interesa, podría volver para revisar más detalles.
+- Frecuencia de acceso: Puede hacer una visita inicial rápida y, si le interesa,
+podría volver para revisar más detalles.
 ```
 - - -- -- -- -- -- -- -- -- -- -- -
 
@@ -49,20 +54,24 @@ USUARIO EXTREMO 2
 Ocupación: Trabajador en una oficina
 
 Objetivos de Vida:
-- Javier se esfuerza por cuidar su salud, aunque no busca activamente servicios dentales a menos que surja la necesidad. Al haber ganado un concurso en redes sociales, ve la oportunidad de probar algo nuevo sin coste alguno.
+- Javier se esfuerza por cuidar su salud, aunque no busca activamente servicios dentales a menos que surja la necesidad.
+ Al haber ganado un concurso en redes sociales, ve la oportunidad de probar algo nuevo sin coste alguno.
 
 - Personalidad:
 - Ordenado
 - Tradicional 
 
 Motivaciones:
-- Ganar el concurso le dio el incentivo para investigar el centro dental, conocer más sobre sus servicios y considerar otras opciones que puedan beneficiar su salud a largo plazo.
+- Ganar el concurso le dio el incentivo para investigar el centro dental, conocer más sobre sus servicios y
+considerar otras opciones que puedan beneficiar su salud a largo plazo.
 
 Frustraciones:
-- Le molestaría que el sitio no ofrezca suficiente información sobre los detalles del premio y los servicios, o si la navegación es confusa.
+- Le molestaría que el sitio no ofrezca suficiente información sobre los detalles del premio y
+los servicios, o si la navegación es confusa.
 
 Descripción de su Comportamiento en el Sitio Web:
-- Javier entrará al sitio para conocer más sobre el premio y explorar otros servicios dentales que podrían interesarle. Busca un sitio claro que le inspire confianza en el servicio.
+- Javier entrará al sitio para conocer más sobre el premio y explorar otros servicios dentales que
+podrían interesarle. Busca un sitio claro que le inspire confianza en el servicio.
 
 Escenario de Uso
 
@@ -71,7 +80,8 @@ Escenario de Uso
 - Ubicación: Desde su oficina o casa, con conexión WiFi.
 - Experiencia esperada: Confianza y profesionalismo en la presentación de la información.
 - Tiempo estimado para la tarea: Entre 5 y 10 minutos.
-- Frecuencia de acceso: Probablemente realice una única visita inicial para conocer los detalles y, si le interesa, volverá a confirmar su cita.
+- Frecuencia de acceso: Probablemente realice una única visita inicial para conocer los
+  detalles y, si le interesa, volverá a confirmar su cita.
 ```
 - - -- -- -- -- -- -- -- -- -- -- -
 
@@ -84,20 +94,25 @@ USUARIO PROMEDIO (Perfil más probable):
 
 Objetivos de Vida:
 
-- Valeria quiere mejorar su salud y apariencia personal, incluyendo el cuidado dental, para sentirse segura y profesional en su entorno laboral y social.
+- Valeria quiere mejorar su salud y apariencia personal, incluyendo el cuidado dental,
+para sentirse segura y profesional en su entorno laboral y social.
 
 Personalidad 
 - Cálida 
 - Amigable 
 
 Motivaciones:
-- Valeria desea encontrar un lugar de confianza para su cuidado dental, que le permita mantener una rutina de salud oral de forma cómoda y eficiente.
+- Valeria desea encontrar un lugar de confianza para su cuidado dental, que le permita mantener una
+rutina de salud oral de forma cómoda y eficiente.
 
 Frustraciones:
-- La falta de opciones claras de contacto o reservas en línea podría desmotivarla, al igual que la dificultad para encontrar información sobre la experiencia y calificación de los profesionales.
+- La falta de opciones claras de contacto o reservas en línea podría desmotivarla, al igual que la
+dificultad para encontrar información sobre la experiencia y calificación de los profesionales.
 
 Descripción de su Comportamiento en el Sitio Web:
-- Valeria explorará la página en su tiempo libre, buscando una interfaz amigable que le facilite la navegación y le permita encontrar rápidamente información sobre servicios, precios y disponibilidad. Probablemente visite el sitio por primera vez después de ver la publicidad en redes sociales y acceda desde su casa.
+- Valeria explorará la página en su tiempo libre, buscando una interfaz amigable que le facilite la navegación y
+le permita encontrar rápidamente información sobre servicios, precios y disponibilidad. Probablemente visite el sitio
+por primera vez después de ver la publicidad en redes sociales y acceda desde su casa.
 
 Escenario de Uso
 - Cuándo: Entre semana, en la mañana o tarde.
@@ -117,48 +132,74 @@ Escenario de Uso
 1. Clínica Dental Everest**
 
 - Aspectos Positivos:
-La página de Clínica Dental Everest ofrece una amplia variedad de información sobre especialidades dentales, lo cual es beneficioso para los usuarios que buscan entender los servicios disponibles. Además, cuenta con accesos rápidos para agendar citas y contactar directamente con la clínica, facilitando la experiencia del usuario en cuanto a trámites importantes.
+La página de Clínica Dental Everest ofrece una amplia variedad de información sobre especialidades dentales,
+lo cual es beneficioso para los usuarios que buscan entender los servicios disponibles. Además, cuenta con
+accesos rápidos para agendar citas y contactar directamente con la clínica, facilitando la experiencia del usuario
+en cuanto a trámites importantes.
 
 - Aspectos Negativos:
-Sin embargo, la cantidad de texto en la página principal puede resultar abrumadora para el usuario promedio, creando una sensación de saturación que dificulta encontrar información rápidamente. Visualmente, la página se percibe "estática" y poco atractiva, ya que carece de elementos dinámicos o interactivos que capturen la atención y hagan la experiencia más envolvente.
+Sin embargo, la cantidad de texto en la página principal puede resultar abrumadora para el usuario promedio,
+creando una sensación de saturación que dificulta encontrar información rápidamente. Visualmente, la página se
+percibe "estática" y poco atractiva, ya que carece de elementos dinámicos o interactivos que capturen la atención y
+hagan la experiencia más envolvente.
 --------------------------------------
 2. Clínica Dental Beladent
 
 - Aspectos Positivos:
-Este sitio cuenta con un diseño limpio y sencillo, lo que facilita la navegación y permite que los usuarios encuentren lo que buscan sin distracciones. Además, destaca una sección sobre el equipo médico, lo que agrega un nivel de confianza al mostrar las caras de los profesionales que atenderán a los pacientes.
+Este sitio cuenta con un diseño limpio y sencillo, lo que facilita la navegación y permite que los usuarios
+encuentren lo que buscan sin distracciones. Además, destaca una sección sobre el equipo médico, lo que agrega
+un nivel de confianza al mostrar las caras de los profesionales que atenderán a los pacientes.
 
 - Aspectos Negativos:
-A pesar de su limpieza visual, el diseño puede percibirse como básico y le falta dinamismo, lo que hace que la experiencia se sienta un poco plana y sin mucho impacto visual. La información, aunque útil, está distribuida de una forma que puede volverse repetitiva y monótona, afectando la retención del usuario.
+A pesar de su limpieza visual, el diseño puede percibirse como básico y le falta dinamismo, lo que hace que
+la experiencia se sienta un poco plana y sin mucho impacto visual. La información, aunque útil, está distribuida
+de una forma que puede volverse repetitiva y monótona, afectando la retención del usuario.
 --------------------------------------
 3. Clínica Dental Smiling
 
 - Aspectos Positivos:
-Smiling presenta un diseño moderno y amigable, utilizando colores suaves que hacen que la página sea acogedora y menos saturada visualmente. El uso de íconos ayuda a organizar las especialidades y beneficios de la clínica, lo cual facilita una navegación intuitiva y rápida.
+Smiling presenta un diseño moderno y amigable, utilizando colores suaves que hacen que la página sea acogedora
+y menos saturada visualmente. El uso de íconos ayuda a organizar las especialidades y beneficios de la clínica,
+lo cual facilita una navegación intuitiva y rápida.
 
 - Aspectos Negativos:
-Sin embargo, la página carece de interactividad, lo cual puede hacer que los usuarios pierdan interés rápidamente si están buscando una experiencia más dinámica. Además, algunos textos largos en la página principal pueden reducir el impacto de la información clave, haciendo que algunos detalles importantes pasen desapercibidos.
+Sin embargo, la página carece de interactividad, lo cual puede hacer que los usuarios pierdan interés rápidamente si
+están buscando una experiencia más dinámica. Además, algunos textos largos en la página principal pueden reducir el
+ impacto de la información clave, haciendo que algunos detalles importantes pasen desapercibidos.
 --------------------------------------
 4. Clínica Dental Mora Pavic
 
 - Aspectos Positivos:
-Este sitio destaca los beneficios para los pacientes en un lugar prominente, lo que permite a los usuarios conocer rápidamente las ventajas de acudir a esta clínica. La inclusión de una sección de noticias y consejos también aporta valor educativo y mantiene a los visitantes informados sobre temas de salud dental.
+Este sitio destaca los beneficios para los pacientes en un lugar prominente, lo que permite a los usuarios conocer
+rápidamente las ventajas de acudir a esta clínica. La inclusión de una sección de noticias y consejos también aporta
+valor educativo y mantiene a los visitantes informados sobre temas de salud dental.
 
 - Aspectos Negativos:
-La página tiene muchas secciones y una gran cantidad de texto, lo cual puede dar la impresión de estar sobrecargada y hacer que los usuarios se sientan abrumados. Además, cuenta con pocos elementos visuales interactivos o dinámicos, lo cual puede hacerla ver menos atractiva para los usuarios jóvenes que esperan una experiencia más moderna y entretenida.
+La página tiene muchas secciones y una gran cantidad de texto, lo cual puede dar la impresión de estar sobrecargada
+y hacer que los usuarios se sientan abrumados. Además, cuenta con pocos elementos visuales interactivos o dinámicos,
+lo cual puede hacerla ver menos atractiva para los usuarios jóvenes que esperan una experiencia más moderna y entretenida.
 --------------------------------------
 5. Clínica Dental Sonríe
 
 - Aspectos Positivos:
-Este sitio enfatiza las experiencias de pacientes y testimonios, lo que genera confianza en los visitantes al mostrar historias reales. También destaca las especialidades y el equipo humano de manera prominente, ayudando a los usuarios a obtener una idea rápida de lo que pueden encontrar en la clínica.
+Este sitio enfatiza las experiencias de pacientes y testimonios, lo que genera confianza en los visitantes al
+mostrar historias reales. También destaca las especialidades y el equipo humano de manera prominente, ayudando
+a los usuarios a obtener una idea rápida de lo que pueden encontrar en la clínica.
 
 - Aspectos Negativos:
-El diseño se ve un poco anticuado y le falta innovación visual, lo cual puede afectar la percepción de modernidad del sitio. Asimismo, carece de elementos visuales atractivos, lo que puede hacer que la experiencia del usuario sea menos envolvente y el sitio se sienta menos llamativo.
+El diseño se ve un poco anticuado y le falta innovación visual, lo cual puede afectar la percepción de
+modernidad del sitio. Asimismo, carece de elementos visuales atractivos, lo que puede hacer que la experiencia
+del usuario sea menos envolvente y el sitio se sienta menos llamativo.
 --------------------------------------
 6. Clínica Dental Bucalis
 
 - Aspectos Positivos:
-Bucalis utiliza colores vibrantes que resaltan y le dan energía a la página, haciéndola visualmente atractiva. Además, el diseño estructurado facilita el acceso a información clave, como las especialidades y las opciones de contacto, lo que agiliza la navegación.
+Bucalis utiliza colores vibrantes que resaltan y le dan energía a la página, haciéndola visualmente atractiva.
+Además, el diseño estructurado facilita el acceso a información clave, como las especialidades y
+las opciones de contacto, lo que agiliza la navegación.
 
 - Aspectos Negativos:
-La página puede sentirse recargada debido al uso excesivo de colores intensos y textos en negrita, lo cual puede resultar abrumador para algunos usuarios. La abundancia de información en una sola página también puede hacer que los usuarios que solo buscan información rápida se sientan perdidos o sobrecargados.
+La página puede sentirse recargada debido al uso excesivo de colores intensos y textos en negrita, lo cual
+puede resultar abrumador para algunos usuarios. La abundancia de información en una sola página también puede hacer
+que los usuarios que solo buscan información rápida se sientan perdidos o sobrecargados.
 ```
