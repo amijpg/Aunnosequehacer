@@ -213,7 +213,14 @@ las opciones de contacto, lo que agiliza la navegación.
 La página puede sentirse recargada debido al uso excesivo de colores intensos y textos en negrita, lo cual
 puede resultar abrumador para algunos usuarios. La abundancia de información en una sola página también puede hacer
 que los usuarios que solo buscan información rápida se sientan perdidos o sobrecargados.
+
 ```
+
+En términos generales, estos sitios ofrecen una gran cantidad de información detallada, lo cual es útil para los usuarios que buscan datos específicos. Sin embargo, el exceso de texto y la falta de dinamismo pueden hacer que se perciban como abrumadores o monótonos. Una buena recomendación para tu proyecto sería enfocarse en la claridad y la interactividad, usando diseño minimalista y visualmente atractivo para evitar la saturación y hacer la navegación más amena y eficiente.
+
 **4. ¿Qué existe que puede inspirar la propuesta?**
 
+![Diseño sin título(3)](https://github.com/user-attachments/assets/558187b5-1ae2-447c-8207-4725f659c6d3)
+
+Este moodboard se inspira en un diseño que combina profesionalismo, calidez y accesibilidad, ideal para una clínica dental. Utiliza colores suaves y tonos fríos que transmiten calma, junto con una tipografía moderna que mejora la legibilidad. Las imágenes de rostros amigables y el ambiente de consultorio dental generan confianza y una conexión emocional. La disposición espaciosa y minimalista, con iconografía simple y secciones bien definidas, facilita una navegación fluida y evita la saturación visual. Elementos interactivos como mapas mejoran la funcionalidad y ayudan a los usuarios a localizar la clínica de manera sencilla, creando una experiencia acogedora y profesional.
 
