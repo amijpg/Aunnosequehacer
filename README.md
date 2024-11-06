@@ -108,3 +108,56 @@ Escenario de Uso
 - Frecuencia de acceso: Es probable que realice la consulta inicial una vez y, de decidirse, vuelva al sitio para concretar la cita.
 ```
 - - - - - - -  - - - - - - - - - - - - - - - - - - 
+![Diseño sin título(2)](https://github.com/user-attachments/assets/86407e60-5769-4418-bd41-8d0df9f1c2ba)
+
+**DESCRIPCIÓN**
+
+```
+1. Clínica Dental Everest**
+
+- Aspectos Positivos:
+La página de Clínica Dental Everest ofrece una amplia variedad de información sobre especialidades dentales, lo cual es beneficioso para los usuarios que buscan entender los servicios disponibles. Además, cuenta con accesos rápidos para agendar citas y contactar directamente con la clínica, facilitando la experiencia del usuario en cuanto a trámites importantes.
+
+- Aspectos Negativos:
+Sin embargo, la cantidad de texto en la página principal puede resultar abrumadora para el usuario promedio, creando una sensación de saturación que dificulta encontrar información rápidamente. Visualmente, la página se percibe "estática" y poco atractiva, ya que carece de elementos dinámicos o interactivos que capturen la atención y hagan la experiencia más envolvente.
+--------------------------------------
+2. Clínica Dental Beladent
+
+- Aspectos Positivos:
+Este sitio cuenta con un diseño limpio y sencillo, lo que facilita la navegación y permite que los usuarios encuentren lo que buscan sin distracciones. Además, destaca una sección sobre el equipo médico, lo que agrega un nivel de confianza al mostrar las caras de los profesionales que atenderán a los pacientes.
+
+- Aspectos Negativos:
+A pesar de su limpieza visual, el diseño puede percibirse como básico y le falta dinamismo, lo que hace que la experiencia se sienta un poco plana y sin mucho impacto visual. La información, aunque útil, está distribuida de una forma que puede volverse repetitiva y monótona, afectando la retención del usuario.
+--------------------------------------
+3. Clínica Dental Smiling
+
+- Aspectos Positivos:
+Smiling presenta un diseño moderno y amigable, utilizando colores suaves que hacen que la página sea acogedora y menos saturada visualmente. El uso de íconos ayuda a organizar las especialidades y beneficios de la clínica, lo cual facilita una navegación intuitiva y rápida.
+
+- Aspectos Negativos:
+Sin embargo, la página carece de interactividad, lo cual puede hacer que los usuarios pierdan interés rápidamente si están buscando una experiencia más dinámica. Además, algunos textos largos en la página principal pueden reducir el impacto de la información clave, haciendo que algunos detalles importantes pasen desapercibidos.
+--------------------------------------
+4. Clínica Dental Mora Pavic
+
+- Aspectos Positivos:
+Este sitio destaca los beneficios para los pacientes en un lugar prominente, lo que permite a los usuarios conocer rápidamente las ventajas de acudir a esta clínica. La inclusión de una sección de noticias y consejos también aporta valor educativo y mantiene a los visitantes informados sobre temas de salud dental.
+
+- Aspectos Negativos:
+La página tiene muchas secciones y una gran cantidad de texto, lo cual puede dar la impresión de estar sobrecargada y hacer que los usuarios se sientan abrumados. Además, cuenta con pocos elementos visuales interactivos o dinámicos, lo cual puede hacerla ver menos atractiva para los usuarios jóvenes que esperan una experiencia más moderna y entretenida.
+--------------------------------------
+5. Clínica Dental Sonríe
+
+- Aspectos Positivos:
+Este sitio enfatiza las experiencias de pacientes y testimonios, lo que genera confianza en los visitantes al mostrar historias reales. También destaca las especialidades y el equipo humano de manera prominente, ayudando a los usuarios a obtener una idea rápida de lo que pueden encontrar en la clínica.
+
+- Aspectos Negativos:
+El diseño se ve un poco anticuado y le falta innovación visual, lo cual puede afectar la percepción de modernidad del sitio. Asimismo, carece de elementos visuales atractivos, lo que puede hacer que la experiencia del usuario sea menos envolvente y el sitio se sienta menos llamativo.
+--------------------------------------
+6. Clínica Dental Bucalis
+
+- Aspectos Positivos:
+Bucalis utiliza colores vibrantes que resaltan y le dan energía a la página, haciéndola visualmente atractiva. Además, el diseño estructurado facilita el acceso a información clave, como las especialidades y las opciones de contacto, lo que agiliza la navegación.
+
+- Aspectos Negativos:
+La página puede sentirse recargada debido al uso excesivo de colores intensos y textos en negrita, lo cual puede resultar abrumador para algunos usuarios. La abundancia de información en una sola página también puede hacer que los usuarios que solo buscan información rápida se sientan perdidos o sobrecargados.
+```
