@@ -8,25 +8,22 @@ Mi propuesta basicmente está enfocada en ususarios que busquen informacioón ac
 Los perfiles de usuario serían los siquientes.
 
 ```
-Usuario Extremo 1
+`Usuario Extremo 1`
 
 - Nombre: Carla, la Exploradora Casual
 - Edad: 22 años
 - Ocupación: Estudiante universitaria
 
-### Objetivos de Vida:
-Carla está enfocada en sus estudios y busca maneras de ahorrar en servicios de salud mientras completa su carrera. Está abierta a explorar servicios accesibles, especialmente si se ajustan a su presupuesto estudiantil.
+Objetivos de Vida:
+- Carla está enfocada en sus estudios y busca maneras de ahorrar en servicios de salud mientras completa su carrera. Está abierta a explorar servicios accesibles, especialmente si se ajustan a su presupuesto estudiantil.
 
-### Personalidad:
-- Espontánea (SPONTANEOUS)
-- Joven (YOUNG)
--  Divertida (FUN)
-- Única (UNIQUE)
+Personalidad:
+- Espontánea 
 
-#### Motivaciones:
-Le interesa probar nuevos servicios, especialmente si encuentra promociones o descuentos que hagan el servicio más accesible. La publicidad en redes sociales despertó su curiosidad.
+Motivaciones:
+- Le interesa probar nuevos servicios, especialmente si encuentra promociones o descuentos que hagan el servicio más accesible. La publicidad en redes sociales despertó su curiosidad.
 
-#### Frustraciones:
+Frustraciones:
 Si la información en el sitio sobre precios o promociones no es clara o si la página tarda en cargar, es probable que pierda el interés.
 
 #### Descripción de su Comportamiento en el Sitio Web:
