@@ -1,5 +1,4 @@
-# Clase-14
-# Clase 14
+# Clase 14 (avance)
 
 - ¿Para qué es esta propuesta?
 Esta propuesta es para crear un sitio web donde pueda mostrar lo que he aprendido en diseño y desarrollo web. Estoy haciendo una página para un centro dental, donde la gente pueda encontrar información sobre los servicios que ofrece, los profesionales que trabajan ahí, la ubicación del centro y cómo contactarlos.
